@@ -1,4 +1,4 @@
-package com.example.android.justjava;
+package com.example.android.OrderGenerator;
 
 import android.content.Intent;
 import android.net.Uri;

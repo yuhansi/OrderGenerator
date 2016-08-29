@@ -1,4 +1,4 @@
-package com.example.android.justjava;
+package com.example.android.OrderGenerator;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
